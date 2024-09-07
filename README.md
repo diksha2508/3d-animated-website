@@ -1,1 +1,1 @@
-# 3d-animateed-website
+# 3d-animated-website
